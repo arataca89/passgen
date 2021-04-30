@@ -1,7 +1,7 @@
 # passgen v1.0.0
-Copyright 2021 arataca89@gmail.com
-Licensed under the MIT License
-20210429
+Copyright 2021 arataca89@gmail.com<br>
+Licensed under the MIT License<br>
+20210429<br>
 passgen é um simples gerador de senhas.
 <pre>
 USO:

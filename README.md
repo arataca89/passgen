@@ -2,7 +2,7 @@
 Gerador de senhas
 <p>
 USO:<br>
-passgen
+passgen<br>
         Exibe o help.
 
 passgen char

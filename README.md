@@ -1,4 +1,4 @@
-# passgen
+# passgen v1.0.0
 Gerador de senhas
 <pre>
 USO:

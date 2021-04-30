@@ -1,7 +1,7 @@
 # passgen
 Gerador de senhas
 <p>
-USO:
+USO:<br>
 passgen
         Exibe o help.
 

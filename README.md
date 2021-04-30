@@ -18,3 +18,15 @@ passgen c nr
 A senha é criada e copiada para o clipboard.
 Use CTRL + V para colar a senha onde você quiser.
 </pre>
+## TESTES
+<pre>
+C:\Users\nerd\golang\go_estudo\passgen>passgen c
+V3#EY[2jI$E*RWgt
+
+C:\Users\nerd\golang\go_estudo\passgen>passgen c 8
+3UlZj5#N
+
+C:\Users\nerd\golang\go_estudo\passgen>passgen c 10
+.uE1;tu;>7
+
+</pre>

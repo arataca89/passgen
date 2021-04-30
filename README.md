@@ -1,8 +1,8 @@
 # passgen
 Gerador de senhas
-<p>
-USO:<br>
-passgen<br>
+<pre>
+USO:
+passgen
         Exibe o help.
 
 passgen char
@@ -14,4 +14,4 @@ passgen c nr
 
 A senha é criada e copiada para o clipboard.
 Use CTRL + V para colar a senha onde você quiser.
-</p>
+</pre>
